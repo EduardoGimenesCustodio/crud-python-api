@@ -1,1 +1,3 @@
-# Calculadora Gráfica com Python
+## Description
+
+This API consists of a CRUD of users.
